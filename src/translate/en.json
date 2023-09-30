@@ -1,0 +1,64 @@
+{
+  "header": {
+    "name": "Tithipong Ruensupa",
+    "nickname": "Q",
+    "left_col": [
+      {
+        "title": "t.ruensupa@gmail.com",
+        "link": "mailto:t.ruensupa@gmail.com"
+      },
+      {
+        "title": "082-0259782",
+        "link": "tel:082-0259782"
+      },
+      {
+        "title": "Chaing Mai, Thailand"
+      }
+    ],
+    "right_col": [
+      {
+        "title": "github.com/Tithipong",
+        "link": "//github.com/Tithipong"
+      }
+    ]
+  },
+  "body": {
+    "overview": {
+      "title": "About Me",
+      "content":[ "Hello, my name is Mr. Thitipong Ruensupa. I am currently a third-year student in the Computer Science department. Maejo University",
+                 "I have a background in coding. and have had internship experience before while studying at vocational school.",
+                 "I am a person who learns quickly, is patient, and works well under pressure. Able to work well with others and want to learn how to work in an organization and develop my own skills at the same time.", 
+                 "I intend to intern in your company. And hope to have the opportunity to continue learning and growing in the computer science field."] },
+    "skills": {
+      "title": "Programming & Technologies",
+      "content": [
+        {
+          "content": [
+            "Languages: C#(Strong), CSS, Java(Standard), JavaScript, HTML, SQL, Dart.",
+            "Frameworks:  VueJs, Vuetify, Bootstrap, Firebase, Flutter.",
+            "Tools: Git, Docker,Figma ,Adobe Experience Design, Unity.",
+            "Other: Excel, Vercel."
+          ]
+        }
+      ]
+    },
+
+    "education": {
+      "title": "Education",
+      "content": ["<b>B. Computer Technology, Lamphun Technical College</b>, TH 2018 - 2021 [ GPAX 3.53  ].",
+                  "<b>B. Computer Science, Maejo University</b>, TH 2021 - present [ GPAX 3.67 ]."]
+    },
+    "events": {
+      "title": "Events",
+      "content": [
+        {
+          "content": [
+            "<b>New Generation Invention Contest Vocational education level</b>.", 
+            "<b>21st Youth Computer Camp Project</b>.", 
+            "<b>Project to develop skills in technology and innovation AR VR MR and 3D at the preliminary level</b>."
+          ]
+        }
+      ]
+    }
+  }
+}
