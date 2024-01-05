@@ -8,8 +8,8 @@
         "link": "mailto:t.ruensupa@gmail.com"
       },
       {
-        "title": "082-0259782",
-        "link": "tel:082-0259782"
+        "title": "093-140-7873",
+        "link": "tel:093-140-7873"
       },
       {
         "title": "เชียงใหม่, ประเทศไทย"
@@ -34,9 +34,9 @@
       "content": [
         {
           "content": [
-            "Languages: C#(Strong), CSS, Java(Standard), JavaScript, HTML, SQL, Dart.",
-            "Frameworks:  VueJs, Vuetify, Bootstrap, Firebase, Flutter.",
-            "Tools: Git, Docker,Figma ,Adobe Experience Design, Unity.",
+            "Languages: C#, JavaScript, SQL, Dart.",
+            "Frameworks:  VueJs, Vuetify, Bootstrap, Flutter.",
+            "Tools: Unity, Git, Docker, Figma.",
             "Other: Excel, Vercel."
           ]
         }
@@ -44,8 +44,8 @@
     },
     "education": {
       "title": "การศึกษา",
-      "content": ["<b>B. เทคนิคอมพิวเตอร์, วิทยาลัยเทคนิคลำพูน</b>, พศ. 2018 - 2021 [ เกรดเฉลี่ย 3.53  ].",
-                  "<b>B. วิทยาการคอมพิวเตอร์, มหาวิทยาลัยแม่โจ้ </b>, พศ. 2021 - ปัจจุบัน [ เกรดเฉลี่ย 3.67 ]."]
+      "content": ["<b> เทคนิคอมพิวเตอร์, วิทยาลัยเทคนิคลำพูน</b>, คศ. 2018 - 2021 [ เกรดเฉลี่ย 3.53  ].",
+                  "<b> วิทยาการคอมพิวเตอร์, มหาวิทยาลัยแม่โจ้ </b>, คศ. 2021 - ปัจจุบัน [ เกรดเฉลี่ย 3.67 ]."]
     },
     "events": {
       "title": "กิจกรรม",
@@ -55,9 +55,7 @@
             "<b>การประกวดสิ่งประดิษฐ์ของคนรุ่นใหม่ ระดับอาชีวศึกษา</b>.",
             "<b>โครงการค่ายยุวชนคอมพิวเตอร์ ครั้งที่ 21</b>.",
             "<b>โครงการพัฒนาทักษะด้านเทคโนโลยีและนวัตกรรม AR VR MR และ 3D ในระดับเบื้องต้น</b>."
-          ],
-          "title": "",
-          "link": "http://thaiinvention.net/bb_projectdetail.php?p=cHJvamVjdF9pZD01MzYwMCZjZmdfaWQ9MzUmY29tcGV0X2lkPTE="
+          ]
         }
       ]
     }

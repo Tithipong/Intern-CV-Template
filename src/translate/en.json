@@ -8,8 +8,8 @@
         "link": "mailto:t.ruensupa@gmail.com"
       },
       {
-        "title": "082-0259782",
-        "link": "tel:082-0259782"
+        "title": "093-140-7873",
+        "link": "tel:093-140-7873"
       },
       {
         "title": "Chaing Mai, Thailand"
@@ -34,9 +34,9 @@
       "content": [
         {
           "content": [
-            "Languages: C#(Strong), CSS, Java(Standard), JavaScript, HTML, SQL, Dart.",
-            "Frameworks:  VueJs, Vuetify, Bootstrap, Firebase, Flutter.",
-            "Tools: Git, Docker,Figma ,Adobe Experience Design, Unity.",
+            "Languages: C#, JavaScript, SQL, Dart.",
+            "Frameworks:  VueJs, Vuetify, Bootstrap, Flutter.",
+            "Tools: Unity, Git, Docker, Figma.",
             "Other: Excel, Vercel."
           ]
         }
@@ -45,8 +45,8 @@
 
     "education": {
       "title": "Education",
-      "content": ["<b>B. Computer Technology, Lamphun Technical College</b>, TH 2018 - 2021 [ GPAX 3.53  ].",
-                  "<b>B. Computer Science, Maejo University</b>, TH 2021 - present [ GPAX 3.67 ]."]
+      "content": ["<b> Computer Technology, Lamphun Technical College</b>, 2018 - 2021 [ GPAX 3.53  ].",
+                  "<b> Computer Science, Maejo University</b>, 2021 - present [ GPAX 3.67 ]."]
     },
     "events": {
       "title": "Events",
